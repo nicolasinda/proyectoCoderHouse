@@ -19,7 +19,8 @@ h1{
     text-align: center;
     color: rgb(46, 46, 46);
 }
-.nav__contenedor {
+
+/* .nav__contenedor {
     background-color: grey;
     width: 100%;
     height: 3rem;
@@ -53,7 +54,7 @@ h1{
 .icon__usuario{
     position: absolute;
     left: 97%;
-}
+} */
 
 .img__portada{
     width: 100%;
@@ -255,7 +256,7 @@ footer{
 
 /* pagina contacto */
 
-.contenedor__form--contacto{
+/* .contenedor__form--contacto{
     display: inline-block;
     margin-left: 38%;              
 }
@@ -285,7 +286,7 @@ footer{
     border: 2px solid  3 rgb(124, 233, 16);
     text-decoration: none;
     margin-bottom: 36%;
- }
+ } */
 
 
 /* mobile */
