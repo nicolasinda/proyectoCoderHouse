@@ -20,41 +20,6 @@ h1{
     color: rgb(46, 46, 46);
 }
 
-/* .nav__contenedor {
-    background-color: grey;
-    width: 100%;
-    height: 3rem;
-    position: relative;
-    text-align: center;   
-}
-
-.nav__contenedor a:hover{
-    font-weight: 600;
-}
-
-.lista__nav {
-   
-    display: inline-block;
-    margin: 15px 1%;
-    text-align: center; 
-}
-
-.buscador{
-    position: absolute;
-    left: 82%;
-}
-.icon__buscador{
-    position: absolute;
-    left: 93%;
-}
-.icon__carrito{
-    position: absolute;
-    left: 95%;
-}
-.icon__usuario{
-    position: absolute;
-    left: 97%;
-} */
 
 .img__portada{
     width: 100%;
@@ -147,42 +112,15 @@ footer{
     width: 100%;
     height: 6rem;
     background-color: rgba(128, 128, 128, 0.712);
-    position: relative;
-    text-align: center;
-    /* position: fixed; */
-    bottom: 0px; 
 }
 
-.redes__footer{
-    display: inline-block;
-    margin: 20px;
-    
-}
 
-.contacto__footer{
-    display: inline-block;
-    position: absolute;
-    left: 6%;
-    margin: 20px;
-}
 
 
 /* pagina politca */
 
-.main__politica{
-    display: flex;
-    justify-content: center;
-    
-}
 
-.contenedor{
-    display: flex; 
-    flex-direction: column;
-    width: 70vw;
-
-}
-
-.contenedor h2{
+h2{
     font-size: 1.5rem;
     justify-content: center;
     width: 100%;
@@ -190,10 +128,6 @@ footer{
     
 }
 
-.contenedor div p{
-    margin-top: 5%;
-    margin-bottom: 16.4%;
-}
 
 
 
@@ -255,39 +189,9 @@ footer{
      
 
 /* pagina contacto */
-
-/* .contenedor__form--contacto{
-    display: inline-block;
-    margin-left: 38%;              
+.container{
+    margin-top: 6rem;
 }
-
-.comentario{
-    width: 100%;
-    height: 300px;
-    box-sizing: border-box;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    background-color: #f8f8f8;
-    font-family: 'Hind Madurai', sans-serif ;
-    }
-
-.nombre__apellido{
-    margin-top: 10%;
-    margin-bottom: 4%;
- }
-
-.email{
-    margin-bottom: 4%;
-}
-
-.boton__enviar{
-    background-color: rgb(124, 233, 16);
-    color: white;
-    border: 2px solid  3 rgb(124, 233, 16);
-    text-decoration: none;
-    margin-bottom: 36%;
- } */
-
 
 /* mobile */
 
