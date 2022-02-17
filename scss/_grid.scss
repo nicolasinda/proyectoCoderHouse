@@ -6,7 +6,7 @@
 }
 
 .gridPadre {
-    display: grid;
+    @extend %d-grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto auto;
     grid-column-gap: 6px;
@@ -54,7 +54,7 @@
 
 
 .contenedorCardsGrid {
-    display: grid;
+    @extend %d-grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(5, 1fr);
 
